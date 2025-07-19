@@ -5,3 +5,4 @@ langchain
 tiktoken
 PyPDF2
 langdetect
+googletrans==4.0.0-rc1
