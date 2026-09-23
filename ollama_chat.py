@@ -22,7 +22,7 @@ def ask_ollama(messages):
                     print(f"JSON decode error: {e} for line: {line}")
                     continue
 
-        return final_response if final_response.strip() else "⚠️ No response content from model."
+        return final_response if final_response.strip() else "No response content from model."
 
     except Exception as e:
-        return f"❌ Failed to connect to Ollama: {str(e)}"
+        return f"Failed to connect to Ollama: {str(e)}"
