@@ -5,17 +5,20 @@
 <p align="center">
   <img src="screenshots/PDF_Mind_SS_1.png" 
        alt="PDF Mind Application Preview" 
-       width="850">
+       width="850"
+       style="margin-bottom: 30px;">
 </p>
 
 <p align="center">
   <img src="screenshots/PDF_Mind_SS_2.png" 
        alt="PDF Mind Application Preview" 
-       width="850">
+       width="850"
+       style="margin-bottom: 30px;">
 </p>
 
 <p align="center">
   <img src="screenshots/PDF_Mind_SS_3.png" 
        alt="PDF Mind Application Preview" 
-       width="850">
+       width="850"
+       style="margin-bottom: 30px;">
 </p>
