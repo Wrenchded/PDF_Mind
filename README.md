@@ -7,3 +7,15 @@
        alt="PDF Mind Application Preview" 
        width="850">
 </p>
+
+<p align="center">
+  <img src="screenshots/PDF_Mind_SS_2.png" 
+       alt="PDF Mind Application Preview" 
+       width="850">
+</p>
+
+<p align="center">
+  <img src="screenshots/PDF_Mind_SS_3.png" 
+       alt="PDF Mind Application Preview" 
+       width="850">
+</p>
